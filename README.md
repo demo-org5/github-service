@@ -1,5 +1,4 @@
-#### Instructions
-- 
+#### Github API Client Exercise
 
 ##### Running Pre Setup:
 - Java 8+
